@@ -1,56 +1,33 @@
-[Thu Oct 01 19:34:59.233277 2020] [ssl:warn] [pid 11900:tid 748] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:34:59.289978 2020] [ssl:warn] [pid 11900:tid 748] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:34:59.391198 2020] [mpm_winnt:notice] [pid 11900:tid 748] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
-[Thu Oct 01 19:34:59.391198 2020] [mpm_winnt:notice] [pid 11900:tid 748] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
-[Thu Oct 01 19:34:59.391198 2020] [core:notice] [pid 11900:tid 748] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Bitnami/Wordpress/apache2 -f C:\\Bitnami\\WORDPR~1\\apache2\\conf\\httpd.conf'
-[Thu Oct 01 19:34:59.398338 2020] [mpm_winnt:notice] [pid 11900:tid 748] AH00418: Parent: Created child process 12692
-[Thu Oct 01 19:34:59.861949 2020] [ssl:warn] [pid 12692:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:34:59.905620 2020] [ssl:warn] [pid 12692:tid 568] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:34:59.929338 2020] [mpm_winnt:notice] [pid 12692:tid 568] AH00354: Child: Starting 64 worker threads.
-[Thu Oct 01 19:35:07.615194 2020] [mpm_winnt:notice] [pid 11900:tid 748] AH00422: Parent: Received shutdown signal -- Shutting down the server.
-[Thu Oct 01 19:35:09.617110 2020] [mpm_winnt:notice] [pid 12692:tid 568] AH00364: Child: All worker threads have exited.
-[Thu Oct 01 19:35:09.643134 2020] [mpm_winnt:notice] [pid 11900:tid 748] AH00430: Parent: Child process 12692 exited successfully.
-[Thu Oct 01 19:35:11.585011 2020] [ssl:warn] [pid 3504:tid 668] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:11.643064 2020] [ssl:warn] [pid 3504:tid 668] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:11.670089 2020] [mpm_winnt:notice] [pid 3504:tid 668] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
-[Thu Oct 01 19:35:11.670089 2020] [mpm_winnt:notice] [pid 3504:tid 668] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
-[Thu Oct 01 19:35:11.670089 2020] [core:notice] [pid 3504:tid 668] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Bitnami/Wordpress/apache2 -f C:\\Bitnami\\WORDPR~1\\apache2\\conf\\httpd.conf'
-[Thu Oct 01 19:35:11.673092 2020] [mpm_winnt:notice] [pid 3504:tid 668] AH00418: Parent: Created child process 11508
-[Thu Oct 01 19:35:12.163960 2020] [ssl:warn] [pid 11508:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:12.214004 2020] [ssl:warn] [pid 11508:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:12.238025 2020] [mpm_winnt:notice] [pid 11508:tid 648] AH00354: Child: Starting 64 worker threads.
-[Thu Oct 01 19:35:23.092779 2020] [mpm_winnt:notice] [pid 3504:tid 668] AH00422: Parent: Received shutdown signal -- Shutting down the server.
-[Thu Oct 01 19:35:25.094406 2020] [mpm_winnt:notice] [pid 11508:tid 648] AH00364: Child: All worker threads have exited.
-[Thu Oct 01 19:35:25.117947 2020] [mpm_winnt:notice] [pid 3504:tid 668] AH00430: Parent: Child process 11508 exited successfully.
-[Thu Oct 01 19:35:26.956014 2020] [ssl:warn] [pid 2900:tid 784] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:27.016068 2020] [ssl:warn] [pid 2900:tid 784] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:27.040090 2020] [mpm_winnt:notice] [pid 2900:tid 784] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
-[Thu Oct 01 19:35:27.040090 2020] [mpm_winnt:notice] [pid 2900:tid 784] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
-[Thu Oct 01 19:35:27.040090 2020] [core:notice] [pid 2900:tid 784] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Bitnami/Wordpress/apache2 -f C:\\Bitnami\\WORDPR~1\\apache2\\conf\\httpd.conf'
-[Thu Oct 01 19:35:27.044098 2020] [mpm_winnt:notice] [pid 2900:tid 784] AH00418: Parent: Created child process 8268
-[Thu Oct 01 19:35:27.461897 2020] [ssl:warn] [pid 8268:tid 660] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:27.528958 2020] [ssl:warn] [pid 8268:tid 660] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 19:35:27.553005 2020] [mpm_winnt:notice] [pid 8268:tid 660] AH00354: Child: Starting 64 worker threads.
-[Thu Oct 01 21:03:53.071564 2020] [mpm_winnt:notice] [pid 2900:tid 784] AH00422: Parent: Received shutdown signal -- Shutting down the server.
-[Thu Oct 01 21:03:55.105940 2020] [mpm_winnt:notice] [pid 8268:tid 660] AH00364: Child: All worker threads have exited.
-[Thu Oct 01 21:03:55.464889 2020] [mpm_winnt:notice] [pid 2900:tid 784] AH00430: Parent: Child process 8268 exited successfully.
-[Thu Oct 01 21:04:46.018061 2020] [ssl:warn] [pid 3688:tid 756] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 21:04:46.285331 2020] [ssl:warn] [pid 3688:tid 756] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 21:04:49.060827 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
-[Thu Oct 01 21:04:49.060827 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
-[Thu Oct 01 21:04:49.060827 2020] [core:notice] [pid 3688:tid 756] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Bitnami/Wordpress/apache2 -f C:\\Bitnami\\WORDPR~1\\apache2\\conf\\httpd.conf'
-[Thu Oct 01 21:04:49.060827 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00418: Parent: Created child process 5772
-[Thu Oct 01 21:04:49.426240 2020] [ssl:warn] [pid 5772:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 21:04:49.495258 2020] [ssl:warn] [pid 5772:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Thu Oct 01 21:04:49.510883 2020] [mpm_winnt:notice] [pid 5772:tid 648] AH00354: Child: Starting 64 worker threads.
-[Sat Oct 03 16:39:55.069419 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00422: Parent: Received shutdown signal -- Shutting down the server.
-[Sat Oct 03 16:40:25.071372 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00431: Parent: Forcing termination of child process 5772
-[Sat Oct 03 16:42:27.598110 2020] [ssl:warn] [pid 6748:tid 732] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Sat Oct 03 16:42:27.649149 2020] [ssl:warn] [pid 6748:tid 732] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Sat Oct 03 16:42:27.681177 2020] [mpm_winnt:notice] [pid 6748:tid 732] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
-[Sat Oct 03 16:42:27.682179 2020] [mpm_winnt:notice] [pid 6748:tid 732] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
-[Sat Oct 03 16:42:27.682179 2020] [core:notice] [pid 6748:tid 732] AH00094: Command line: 'C:\\Bitnami\\WORDPR~1\\apache2\\bin\\httpd.exe -d C:/Bitnami/Wordpress/apache2 -f C:\\Bitnami\\WORDPR~1\\apache2\\conf\\httpd.conf'
-[Sat Oct 03 16:42:27.704200 2020] [mpm_winnt:notice] [pid 6748:tid 732] AH00418: Parent: Created child process 7304
-[Sat Oct 03 16:42:28.139602 2020] [ssl:warn] [pid 7304:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Sat Oct 03 16:42:28.185644 2020] [ssl:warn] [pid 7304:tid 676] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
-[Sat Oct 03 16:42:28.204652 2020] [mpm_winnt:notice] [pid 7304:tid 676] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 03 17:11:27.300141 2020] [ssl:warn] [pid 3988:tid 728] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:28.000574 2020] [ssl:warn] [pid 3988:tid 728] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:28.042483 2020] [mpm_winnt:notice] [pid 3988:tid 728] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
+[Sat Oct 03 17:11:28.042483 2020] [mpm_winnt:notice] [pid 3988:tid 728] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Sat Oct 03 17:11:28.042483 2020] [core:notice] [pid 3988:tid 728] AH00094: Command line: 'D:\\CS490 WD\\Wordpress\\apache2\\bin\\httpd.exe -d D:/CS490 WD/Wordpress/apache2 -f D:\\CS490 WD\\Wordpress\\apache2\\conf\\httpd.conf'
+[Sat Oct 03 17:11:28.044452 2020] [mpm_winnt:notice] [pid 3988:tid 728] AH00418: Parent: Created child process 5360
+[Sat Oct 03 17:11:29.033043 2020] [ssl:warn] [pid 5360:tid 664] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:29.059969 2020] [ssl:warn] [pid 5360:tid 664] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:29.074900 2020] [mpm_winnt:notice] [pid 5360:tid 664] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 03 17:11:34.530028 2020] [mpm_winnt:notice] [pid 3988:tid 728] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 03 17:11:36.532237 2020] [mpm_winnt:notice] [pid 5360:tid 664] AH00364: Child: All worker threads have exited.
+[Sat Oct 03 17:11:36.573022 2020] [mpm_winnt:notice] [pid 3988:tid 728] AH00430: Parent: Child process 5360 exited successfully.
+[Sat Oct 03 17:11:38.177105 2020] [ssl:warn] [pid 10924:tid 692] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:39.236045 2020] [ssl:warn] [pid 10924:tid 692] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:39.247016 2020] [mpm_winnt:notice] [pid 10924:tid 692] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
+[Sat Oct 03 17:11:39.247016 2020] [mpm_winnt:notice] [pid 10924:tid 692] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Sat Oct 03 17:11:39.247016 2020] [core:notice] [pid 10924:tid 692] AH00094: Command line: 'D:\\CS490 WD\\Wordpress\\apache2\\bin\\httpd.exe -d D:/CS490 WD/Wordpress/apache2 -f D:\\CS490 WD\\Wordpress\\apache2\\conf\\httpd.conf'
+[Sat Oct 03 17:11:39.249045 2020] [mpm_winnt:notice] [pid 10924:tid 692] AH00418: Parent: Created child process 9060
+[Sat Oct 03 17:11:39.483385 2020] [ssl:warn] [pid 9060:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:39.511341 2020] [ssl:warn] [pid 9060:tid 636] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:39.525272 2020] [mpm_winnt:notice] [pid 9060:tid 636] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 03 17:11:51.627759 2020] [mpm_winnt:notice] [pid 10924:tid 692] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 03 17:11:53.628773 2020] [mpm_winnt:notice] [pid 9060:tid 636] AH00364: Child: All worker threads have exited.
+[Sat Oct 03 17:11:53.647723 2020] [mpm_winnt:notice] [pid 10924:tid 692] AH00430: Parent: Child process 9060 exited successfully.
+[Sat Oct 03 17:11:55.265398 2020] [ssl:warn] [pid 8456:tid 704] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:55.309278 2020] [ssl:warn] [pid 8456:tid 704] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:55.322245 2020] [mpm_winnt:notice] [pid 8456:tid 704] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
+[Sat Oct 03 17:11:55.322245 2020] [mpm_winnt:notice] [pid 8456:tid 704] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Sat Oct 03 17:11:55.322245 2020] [core:notice] [pid 8456:tid 704] AH00094: Command line: 'D:\\CS490 WD\\Wordpress\\apache2\\bin\\httpd.exe -d D:/CS490 WD/Wordpress/apache2 -f D:\\CS490 WD\\Wordpress\\apache2\\conf\\httpd.conf'
+[Sat Oct 03 17:11:55.324239 2020] [mpm_winnt:notice] [pid 8456:tid 704] AH00418: Parent: Created child process 13108
+[Sat Oct 03 17:11:55.589529 2020] [ssl:warn] [pid 13108:tid 700] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:55.617454 2020] [ssl:warn] [pid 13108:tid 700] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 03 17:11:55.631418 2020] [mpm_winnt:notice] [pid 13108:tid 700] AH00354: Child: Starting 64 worker threads.

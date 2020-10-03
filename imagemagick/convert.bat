@@ -1,4 +1,4 @@
 
 @ECHO OFF
-CALL "C:\Bitnami\Wordpress\scripts\setenv.bat"
+CALL "D:\CS490 WD\Wordpress\scripts\setenv.bat"
 start "" convert %*

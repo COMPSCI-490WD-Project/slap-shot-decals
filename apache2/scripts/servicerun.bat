@@ -10,7 +10,7 @@ goto end
 
 :stop
 
-"C:/Bitnami/Wordpress/apache2\bin\httpd.exe" -n "wordpressApache" -k stop
+"D:/CS490 WD/Wordpress/apache2\bin\httpd.exe" -n "wordpressApache" -k stop
 
 :end
 exit

@@ -1,6 +1,6 @@
 @echo off
-CALL "C:\Bitnami\WORDPR~1\scripts\setenv.bat"
-C:
-cd "C:\Bitnami\Wordpress"
+CALL "D:\CS490 WD\Wordpress\scripts\setenv.bat"
+D:
+cd "D:\CS490 WD\Wordpress"
 START "Bitnami WordPress Stack Environment" cmd
                     

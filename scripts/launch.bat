@@ -1,4 +1,4 @@
 @echo off
-CALL C:\Bitnami\WORDPR~1\scripts\setenv.bat
+CALL D:\CS490 WD\Wordpress\scripts\setenv.bat
 START /MIN "Bitnami WordPress Stack Environment" CMD /C %*
                     

@@ -1,5 +1,5 @@
 @ECHO OFF
-									SET "PHP_PEAR_SYSCONF_DIR=C:\Bitnami\Wordpress\php"
+									SET "PHP_PEAR_SYSCONF_DIR=D:\CS490 WD\Wordpress\php"
 
 REM ----------------------------------------------------------------------
 REM PHP version 5
@@ -20,12 +20,12 @@ REM -------------------
 REM Test to see if this is a raw pear.bat (uninstalled version)
 SET TMPTMPTMPTMPT=@includ
 SET PMTPMTPMT=%TMPTMPTMPTMPT%e_path@
-FOR %%x IN ("C:\Bitnami\Wordpress\php\pear") DO (if %%x=="%PMTPMTPMT%" GOTO :NOTINSTALLED)
+FOR %%x IN ("D:\CS490 WD\Wordpress\php\pear") DO (if %%x=="%PMTPMTPMT%" GOTO :NOTINSTALLED)
 
 REM Check PEAR global ENV, set them if they do not exist
-IF "%PHP_PEAR_INSTALL_DIR%"=="" SET "PHP_PEAR_INSTALL_DIR=C:\Bitnami\Wordpress\php\pear"
-IF "%PHP_PEAR_BIN_DIR%"=="" SET "PHP_PEAR_BIN_DIR=C:\Bitnami\Wordpress\php"
-IF "%PHP_PEAR_PHP_BIN%"=="" SET "PHP_PEAR_PHP_BIN=C:\Bitnami\Wordpress\php\php.exe"
+IF "%PHP_PEAR_INSTALL_DIR%"=="" SET "PHP_PEAR_INSTALL_DIR=D:\CS490 WD\Wordpress\php\pear"
+IF "%PHP_PEAR_BIN_DIR%"=="" SET "PHP_PEAR_BIN_DIR=D:\CS490 WD\Wordpress\php"
+IF "%PHP_PEAR_PHP_BIN%"=="" SET "PHP_PEAR_PHP_BIN=D:\CS490 WD\Wordpress\php\php.exe"
 
 GOTO :INSTALLED
 
