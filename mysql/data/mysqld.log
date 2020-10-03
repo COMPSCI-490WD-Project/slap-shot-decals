@@ -31,3 +31,12 @@
 2020-10-02T02:04:53.797574Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
 2020-10-03T21:39:53.464088Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Normal shutdown.
 2020-10-03T21:39:54.140718Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
+2020-10-03T21:42:29.350137Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) starting as process 9952
+2020-10-03T21:42:29.364734Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-03T21:42:29.990647Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-03T21:42:30.299063Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-03T21:42:30.342123Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2020-10-03T21:42:30.352127Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2020-10-03T21:42:30.425759Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-03T21:42:30.426736Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-10-03T21:42:30.476930Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
