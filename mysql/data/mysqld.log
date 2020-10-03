@@ -1,0 +1,31 @@
+2020-10-02T00:33:10.759364Z 0 [System] [MY-013169] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) initializing of server in progress as process 7888
+2020-10-02T00:33:10.776678Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-02T00:33:13.164759Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-02T00:33:14.792813Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --binlog-expire-logs-seconds work.
+2020-10-02T00:33:15.387365Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-10-02T00:33:18.426810Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) starting as process 3948
+2020-10-02T00:33:18.451454Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-02T00:33:19.043089Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-02T00:33:19.248262Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-02T00:33:19.494609Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-02T00:33:19.495718Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-10-02T00:33:19.548090Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-02T00:34:00.516777Z 12 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.21).
+2020-10-02T00:34:00.517779Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Normal shutdown.
+2020-10-02T00:34:01.424330Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
+2020-10-02T00:34:48.919265Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) starting as process 5904
+2020-10-02T00:34:48.935722Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-02T00:34:49.415949Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-02T00:34:49.640748Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-02T00:34:49.780196Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-02T00:34:49.781758Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-10-02T00:34:49.826788Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-02T02:03:53.082095Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Normal shutdown.
+2020-10-02T02:03:54.186773Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
+2020-10-02T02:04:46.193445Z 0 [System] [MY-010116] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe (mysqld 8.0.21) starting as process 5036
+2020-10-02T02:04:48.265833Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-10-02T02:04:52.637466Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-10-02T02:04:53.466043Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-10-02T02:04:53.726544Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-10-02T02:04:53.727465Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-10-02T02:04:53.797574Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
