@@ -43,3 +43,5 @@
 [Thu Oct 01 21:04:49.426240 2020] [ssl:warn] [pid 5772:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Oct 01 21:04:49.495258 2020] [ssl:warn] [pid 5772:tid 648] AH01909: localhost:443:0 server certificate does NOT include an ID which matches the server name
 [Thu Oct 01 21:04:49.510883 2020] [mpm_winnt:notice] [pid 5772:tid 648] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 03 16:39:55.069419 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 03 16:40:25.071372 2020] [mpm_winnt:notice] [pid 3688:tid 756] AH00431: Parent: Forcing termination of child process 5772

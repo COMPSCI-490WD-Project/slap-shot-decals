@@ -29,3 +29,5 @@
 2020-10-02T02:04:53.726544Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
 2020-10-02T02:04:53.727465Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2020-10-02T02:04:53.797574Z 0 [System] [MY-010931] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.21'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2020-10-03T21:39:53.464088Z 0 [System] [MY-013105] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Normal shutdown.
+2020-10-03T21:39:54.140718Z 0 [System] [MY-010910] [Server] C:\Bitnami\WORDPR~1\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.21)  MySQL Community Server - GPL.
