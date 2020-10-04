@@ -1,0 +1,21 @@
+[Sun Oct 04 11:30:42.832307 2020] [ssl:warn] [pid 9048:tid 704] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:30:42.902369 2020] [ssl:warn] [pid 9048:tid 704] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:31:03.869889 2020] [ssl:warn] [pid 8388:tid 660] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:31:03.929935 2020] [core:warn] [pid 8388:tid 660] AH00098: pid file C:/Bitnami/Slap-Shot-Decals/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 04 11:31:03.937951 2020] [ssl:warn] [pid 8388:tid 660] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:31:51.399954 2020] [ssl:warn] [pid 2604:tid 720] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:31:51.464013 2020] [core:warn] [pid 2604:tid 720] AH00098: pid file C:/Bitnami/Slap-Shot-Decals/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 04 11:31:51.472027 2020] [ssl:warn] [pid 2604:tid 720] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:34:54.474714 2020] [ssl:warn] [pid 16328:tid 708] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:34:54.537277 2020] [core:warn] [pid 16328:tid 708] AH00098: pid file C:/Bitnami/Slap-Shot-Decals/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 04 11:34:54.545284 2020] [ssl:warn] [pid 16328:tid 708] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:37:08.816904 2020] [ssl:warn] [pid 3436:tid 724] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:37:08.878958 2020] [core:warn] [pid 3436:tid 724] AH00098: pid file C:/Bitnami/Slap-Shot-Decals/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Oct 04 11:37:08.887967 2020] [ssl:warn] [pid 3436:tid 724] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:37:08.918995 2020] [mpm_winnt:notice] [pid 3436:tid 724] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 configured -- resuming normal operations
+[Sun Oct 04 11:37:08.918995 2020] [mpm_winnt:notice] [pid 3436:tid 724] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Sun Oct 04 11:37:08.918995 2020] [core:notice] [pid 3436:tid 724] AH00094: Command line: 'C:\\Bitnami\\SLAP-S~1\\apache2\\bin\\httpd.exe -d C:/Bitnami/Slap-Shot-Decals/apache2 -f C:\\Bitnami\\SLAP-S~1\\apache2\\conf\\httpd.conf'
+[Sun Oct 04 11:37:08.925001 2020] [mpm_winnt:notice] [pid 3436:tid 724] AH00418: Parent: Created child process 6604
+[Sun Oct 04 11:37:09.281327 2020] [ssl:warn] [pid 6604:tid 648] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:37:09.347388 2020] [ssl:warn] [pid 6604:tid 648] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sun Oct 04 11:37:09.376412 2020] [mpm_winnt:notice] [pid 6604:tid 648] AH00354: Child: Starting 64 worker threads.
