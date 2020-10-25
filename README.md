@@ -2,7 +2,7 @@
 
 ## Iteration One 
 
-[Spreadsheet](https://docs.google.com/spreadsheets/d/1isOy74L4tXucM4pNDP5bDVSmNl6EqR8bZuS5wKjjKJc/edit#gid=1233476730)
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1isOy74L4tXucM4pNDP5bDVSmNl6EqR8bZuS5wKjjKJc/edit?usp=sharing)
 
 [Site Map](https://www.gloomaps.com/3AbmlKgJy2)
 
