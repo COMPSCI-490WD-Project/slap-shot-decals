@@ -1,8 +1,16 @@
 # slap-shot-decals
 
 ## Iteration One 
-https://docs.google.com/spreadsheets/d/1isOy74L4tXucM4pNDP5bDVSmNl6EqR8bZuS5wKjjKJc/edit#gid=1233476730
-## Pre-Iteration 2
-https://docs.google.com/spreadsheets/d/1tyXoPyp4T9eGfSoTQamvx9IB_jQ9ewCynqxrj2jPaaw/edit#gid=1233476730
-## Slap Shot Decal 
-https://www.gloomaps.com/3AbmlKgJy2
+
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1isOy74L4tXucM4pNDP5bDVSmNl6EqR8bZuS5wKjjKJc/edit#gid=1233476730)
+
+[Site Map](https://www.gloomaps.com/3AbmlKgJy2)
+
+[Reflection](https://github.com/COMPSCI-490WD-Project/slap-shot-decals/blob/master/Iteration%201/Group%20Reflection_%20End%20of%20Iteration%20%231.docx)
+
+
+
+## Iteration Two: 
+
+[Pre-Iteration Spreadsheet](https://docs.google.com/spreadsheets/d/1tyXoPyp4T9eGfSoTQamvx9IB_jQ9ewCynqxrj2jPaaw/edit#gid=1233476730)
+
