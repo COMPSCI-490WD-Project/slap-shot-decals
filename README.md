@@ -16,3 +16,4 @@
 
 [Prototype](https://github.com/COMPSCI-490WD-Project/slap-shot-decals/blob/master/Iteration%202/Design%20Prototype%20Slap%20Shot%20Decal.pdf)
 
+[Reflection](https://github.com/COMPSCI-490WD-Project/slap-shot-decals/blob/master/Iteration%202/Iteration%20Two%20Reflection%20.docx)
