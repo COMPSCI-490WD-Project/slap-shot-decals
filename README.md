@@ -20,4 +20,7 @@
 
 ## Iteration Three: 
 
-[Pre-Iteration Spreadsheet](https://docs.google.com/spreadsheets/d/1tyXoPyp4T9eGfSoTQamvx9IB_jQ9ewCynqxrj2jPaaw/edit#gid=1233476730)
+[Spreadsheet](https://github.com/COMPSCI-490WD-Project/slap-shot-decals/blob/master/Iteration%203/Slap%20Shot%20Decal%20Iteration%20%233%20Sheet.xlsx)
+
+[Reflection](https://github.com/COMPSCI-490WD-Project/slap-shot-decals/blob/master/Iteration%203/Iteration%20Three%20Reflection.docx)
+
